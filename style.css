@@ -1,0 +1,35 @@
+
+
+body{
+	background-image: url(header.jpg);
+	background-image: cover;
+	border: 5px solid white;
+	cursor: pointer;
+}
+
+h2,p{
+	border: solid white;
+}
+p{
+	color: white;
+	text-decoration: underline;
+	text-transform: uppercase;
+	line-height: 30px;
+	font-style: italic;
+	font-weight: 150px;
+	animation-delay: all;
+}
+image {
+	float: left;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+
+.webtext {
+	border: 5px dashed green;
+}
+.active{
+   color: red;
+}
